@@ -10,7 +10,9 @@
 ## 👋 About Me
 
 Xin chào, mình là **Thanh Nguyễn**.  
-Mình đam mê phát triển phần mềm, đặc biệt là lĩnh vực **Web, Mobile, và Cloud Computing**. Luôn cập nhật công nghệ mới, yêu thích học hỏi, xây dựng giải pháp sáng tạo, hướng tới code sạch, tối ưu và sản phẩm thực tiễn.
+Mình đam mê phát triển phần mềm, đặc biệt trong các lĩnh vực **Web, Mobile, Backend, System và Desktop Application**.  
+Luôn cập nhật công nghệ mới, yêu thích học hỏi, xây dựng giải pháp sáng tạo với code sạch, tối ưu và thực tiễn.  
+Mục tiêu của mình là tạo ra những sản phẩm chất lượng, dễ bảo trì, đem lại giá trị cho người dùng và doanh nghiệp.
 
 ---
 
@@ -84,7 +86,6 @@ Mình đam mê phát triển phần mềm, đặc biệt là lĩnh vực **Web, 
   <img src="https://github-readme-stats.vercel.app/api?username=Thanh123st&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanh123st&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Thanh123st&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
