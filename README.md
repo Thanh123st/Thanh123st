@@ -29,8 +29,9 @@ Mục tiêu của mình là tạo ra những sản phẩm chất lượng, dễ 
 
 ### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" title="React"/>
-  <img src="https://cdn.simpleicons.org/expo/000000" width="40" title="Expo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="ReactJS"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40" title="React Native"/>
+  <img src="https://cdn.simpleicons.org/expo/000000/FFFFFF" width="40" title="Expo" style="background-color:white;border-radius:6px;padding:3px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="ExpressJS"/>
@@ -52,17 +53,17 @@ Mục tiêu của mình là tạo ra những sản phẩm chất lượng, dễ 
 
 ### 🏗️ Architecture & Systems
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Microservices"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker/Microservices"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub Actions"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" title="Netlify"/>
 </p>
 
 ### 🔒 API & Security
 <p>
-  <img src="https://img.icons8.com/color/48/000000/api-settings.png" width="40" title="RESTful API"/>
-  <img src="https://img.icons8.com/fluency/48/websocket.png" width="40" title="WebSocket"/>
-  <img src="https://img.icons8.com/color/48/000000/oauth.png" width="40" title="OAuth2"/>
-  <img src="https://img.icons8.com/color/48/000000/jwt.png" width="40" title="JWT"/>
+  <img src="https://img.icons8.com/fluency/48/api-settings.png" width="40" title="RESTful API" style="background:white;border-radius:6px;padding:3px"/>
+  <img src="https://img.icons8.com/color/48/000000/websocket.png" width="40" title="WebSocket" style="background:white;border-radius:6px;padding:3px"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-oauth-2-0-an-open-standard-for-access-delegation-logo-shadow-tal-revivo.png" width="40" title="OAuth2" style="background:white;border-radius:6px;padding:3px"/>
+  <img src="https://img.icons8.com/color/48/000000/json-web-token.png" width="40" title="JWT" style="background:white;border-radius:6px;padding:3px"/>
 </p>
 
 ### ⚡ Tools & Others
@@ -70,8 +71,10 @@ Mục tiêu của mình là tạo ra những sản phẩm chất lượng, dễ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" title="ChatGPT"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="40" title="DevOps"/>
-  <img src="https://img.icons8.com/color/48/000000/scrum.png" width="40" title="Agile/Scrum"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
 </p>
+
 
 ---
 
