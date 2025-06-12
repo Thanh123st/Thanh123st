@@ -65,12 +65,18 @@ Mình đam mê phát triển phần mềm, đặc biệt là lĩnh vực **Web, 
 
 ## 📌 Featured Projects
 
-<!-- Gợi ý: Đưa link trực tiếp, mô tả ngắn gọn, có thể thêm icon dự án -->
-- [Tên Dự Án 1](https://github.com/hoctrohoangthanh/project1) - Mô tả ngắn về dự án, công nghệ sử dụng, kết quả nổi bật.
-- [Tên Dự Án 2](https://github.com/hoctrohoangthanh/project2) - Mô tả ngắn về dự án, công nghệ sử dụng, kết quả nổi bật.
-- _[Thêm dự án khác tại đây nếu muốn]_
+- [![Website](https://img.shields.io/badge/-Live-blue?style=flat-square&logo=google-chrome)](https://tap-chi-khoa-hoc-va-cong-nghe-can-tho.netlify.app/)
+  **Tạp chí Khoa học & Công nghệ Cần Thơ**  
+  *Front-end với ReactJS.*  
+  Website giới thiệu, trình bày bài viết khoa học cho trường Đại Học Kỹ Thuật Công Nghệ Cần Thơ. Giao diện hiện đại, responsive, tối ưu trải nghiệm người dùng.
 
----
+- [![Website](https://img.shields.io/badge/-Live-blue?style=flat-square&logo=google-chrome)](https://element-trac-hospital.netlify.app/)
+  **Element Trắc Hospital**  
+  *Front-end với ReactJS & Vite.*  
+  Trang web quản lý bệnh viện , hiệu năng cao, phát triển bằng React và build tool Vite giúp tải trang nhanh, dễ mở rộng.
+
+<!-- Thêm dự án mới ở đây theo mẫu trên nếu có -->
+
 
 ## 📈 GitHub Stats
 
@@ -92,10 +98,6 @@ Mình đam mê phát triển phần mềm, đặc biệt là lĩnh vực **Web, 
   <a href="www.linkedin.com/in/thanh-nguyễn-aaab0836a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/nguyen.thanh.929165" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-
   <!-- Thêm các kênh khác nếu cần -->
 </p>
 
@@ -106,8 +108,3 @@ Mình đam mê phát triển phần mềm, đặc biệt là lĩnh vực **Web, 
 > "Code is like humor. When you have to explain it, it’s bad."  
 > **Thank you for visiting my profile! Have a nice day! 😊**
 
-<!-- 
-Chú thích: 
-- Thay thế hoặc bổ sung thông tin cá nhân, dự án ở các vị trí đã ghi chú.
-- Có thể đổi câu quote hoặc bổ sung thêm mục nếu muốn.
--->
