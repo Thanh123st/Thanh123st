@@ -95,6 +95,7 @@ Mình đam mê phát triển phần mềm, đặc biệt là lĩnh vực **Web, 
   <a href="https://www.facebook.com/nguyen.thanh.929165" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+
   <!-- Thêm các kênh khác nếu cần -->
 </p>
 
