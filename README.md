@@ -29,8 +29,7 @@ Mục tiêu của mình là tạo ra những sản phẩm chất lượng, dễ 
 
 ### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="ReactJS"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" title="React Native"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40" title="React"/>
   <img src="https://cdn.simpleicons.org/expo/000000" width="40" title="Expo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
