@@ -89,10 +89,10 @@ Mình đam mê phát triển phần mềm, đặc biệt là lĩnh vực **Web, 
   <a href="mailto:hoctrohoangthanh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/thanhn" target="_blank">
+  <a href="www.linkedin.com/in/thanh-nguyễn-aaab0836a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/hoctrohoangthanh" target="_blank">
+  <a href="https://www.facebook.com/nguyen.thanh.929165" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <!-- Thêm các kênh khác nếu cần -->
