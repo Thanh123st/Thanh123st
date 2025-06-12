@@ -79,27 +79,18 @@ Mục tiêu của mình là tạo ra những sản phẩm chất lượng, dễ 
 
 <!-- Thêm dự án mới ở đây theo mẫu trên nếu có -->
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thanh123st&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanh123st&theme=radical" alt="GitHub Streak" />
-  <br/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
   <a href="mailto:hoctrohoangthanh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" />
   </a>
-  <a href="www.linkedin.com/in/thanh-nguyễn-aaab0836a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/thanh-nguyễn-aaab0836a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  <!-- Thêm các kênh khác nếu cần -->
+  <a href="https://www.facebook.com/nguyen.thanh.929165" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" />
+  </a>
 </p>
 
 ---
