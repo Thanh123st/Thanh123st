@@ -82,7 +82,7 @@ Mục tiêu của mình là tạo ra những sản phẩm chất lượng, dễ 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:hoctrohoangthanh@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hoctrohoangthanh@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/thanh-nguyễn-aaab0836a" target="_blank">
