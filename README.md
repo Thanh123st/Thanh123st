@@ -60,7 +60,7 @@ Mục tiêu của mình là tạo ra những sản phẩm chất lượng, dễ 
 
 ### ⚡ Tools & Others
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" title="ChatGPT"/>
+  <img src="https://cdn.simpleicons.org/openai/10a37f" width="40" title="ChatGPT" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="40" title="DevOps"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
