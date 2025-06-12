@@ -19,49 +19,60 @@ Mục tiêu của mình là tạo ra những sản phẩm chất lượng, dễ 
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming Languages
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+</p>
 
 ### ⚙️ Frameworks & Libraries
-![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
-![ExpressJS](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![ElectronJS](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="ReactJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="40" title="Expo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="ExpressJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" title="ElectronJS"/>
+</p>
 
 ### 🗄️ Database
 **SQL:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server)
-<!-- Thêm các database SQL khác nếu có -->
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server"/>
+</p>
 
 **NoSQL:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis"/>
+</p>
 
 ### 🏗️ Architecture & Systems
-![Microservices](https://img.shields.io/badge/-Microservices-15AABF?style=flat-square&logo=docker)
-![CI/CD](https://img.shields.io/badge/-CI/CD-3DDC84?style=flat-square&logo=github-actions)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Microservices"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" title="Netlify"/>
+</p>
 
 ### 🔒 API & Security
-![RESTful API](https://img.shields.io/badge/-RESTful_API-6C3483?style=flat-square&logo=api)
-![WebSocket](https://img.shields.io/badge/-WebSocket-FF6F00?style=flat-square&logo=websocket)
-![OAuth2](https://img.shields.io/badge/-OAuth2-006400?style=flat-square&logo=oauth)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/api-settings.png" width="40" title="RESTful API"/>
+  <img src="https://img.icons8.com/fluency/48/websocket.png" width="40" title="WebSocket"/>
+  <img src="https://img.icons8.com/color/48/000000/oauth.png" width="40" title="OAuth2"/>
+  <img src="https://img.icons8.com/color/48/000000/jwt.png" width="40" title="JWT"/>
+</p>
 
 ### ⚡ Tools & Others
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
-![DevOps](https://img.shields.io/badge/-DevOps-0078D7?style=flat-square&logo=azuredevops)
-![Agile](https://img.shields.io/badge/-Agile/Scrum-29B6F6?style=flat-square&logo=scrumalliance)
-<!-- Thêm/bớt badge nếu muốn -->
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" title="ChatGPT"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="40" title="DevOps"/>
+  <img src="https://img.icons8.com/color/48/000000/scrum.png" width="40" title="Agile/Scrum"/>
+</p>
 
 ---
 
