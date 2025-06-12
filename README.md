@@ -75,10 +75,10 @@ Mình đam mê phát triển phần mềm, đặc biệt là lĩnh vực **Web, 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoctrohoangthanh&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoctrohoangthanh&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thanh123st&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanh123st&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hoctrohoangthanh&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Thanh123st&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
