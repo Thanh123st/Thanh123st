@@ -58,14 +58,6 @@ Mục tiêu của mình là tạo ra những sản phẩm chất lượng, dễ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" title="Netlify"/>
 </p>
 
-### 🔒 API & Security
-<p>
-  <img src="https://img.icons8.com/fluency/48/api-settings.png" width="40" title="RESTful API" style="background:white;border-radius:6px;padding:3px"/>
-  <img src="https://img.icons8.com/color/48/000000/websocket.png" width="40" title="WebSocket" style="background:white;border-radius:6px;padding:3px"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-oauth-2-0-an-open-standard-for-access-delegation-logo-shadow-tal-revivo.png" width="40" title="OAuth2" style="background:white;border-radius:6px;padding:3px"/>
-  <img src="https://img.icons8.com/color/48/000000/json-web-token.png" width="40" title="JWT" style="background:white;border-radius:6px;padding:3px"/>
-</p>
-
 ### ⚡ Tools & Others
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" title="ChatGPT"/>
