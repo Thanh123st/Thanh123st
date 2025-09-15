@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thanh Nguyễn</h1>
+<h1 align="center">Hi 👋, I'm Thanh Nguyen</h1>
 <h3 align="center">A passionate Software Engineer from Vietnam 🇻🇳</h3>
 
 <p align="center">
@@ -9,10 +9,10 @@
 
 ## 👋 About Me
 
-Xin chào, mình là **Thanh Nguyễn**.  
-Mình đam mê phát triển phần mềm, đặc biệt trong các lĩnh vực **Web, Mobile, Backend, System và Desktop Application**.  
-Luôn cập nhật công nghệ mới, yêu thích học hỏi, xây dựng giải pháp sáng tạo với code sạch, tối ưu và thực tiễn.  
-Mục tiêu của mình là tạo ra những sản phẩm chất lượng, dễ bảo trì, đem lại giá trị cho người dùng và doanh nghiệp.
+Hello, I'm **Thanh Nguyen**.  
+I am passionate about software development, especially in **Web, Mobile, Backend, System, and Desktop Applications**.  
+Always staying up to date with new technologies, I love learning, building creative solutions with clean, optimized, and practical code.  
+My goal is to create high-quality, maintainable products that bring real value to users and businesses.
 
 ---
 
@@ -67,22 +67,23 @@ Mục tiêu của mình là tạo ra những sản phẩm chất lượng, dễ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
 </p>
 
-
 ---
 
 ## 📌 Featured Projects
 
-- [![Website](https://img.shields.io/badge/-Live-blue?style=flat-square&logo=google-chrome)](https://tap-chi-khoa-hoc-va-cong-nghe-can-tho.netlify.app/)
-  **Tạp chí Khoa học & Công nghệ Cần Thơ**  
-  *Front-end với ReactJS.*  
-  Website giới thiệu, trình bày bài viết khoa học cho trường Đại Học Kỹ Thuật Công Nghệ Cần Thơ. Giao diện hiện đại, responsive, tối ưu trải nghiệm người dùng.
+- [![Website](https://img.shields.io/badge/-Live-blue?style=flat-square&logo=google-chrome)](https://tap-chi-khoa-hoc-va-cong-nghe-can-tho.netlify.app/)  
+  **Can Tho Science & Technology Journal**  
+  *Front-end with ReactJS.*  
+  A website for presenting scientific articles for Can Tho University of Science and Technology. Modern UI, responsive, and optimized for user experience.
 
-- [![Website](https://img.shields.io/badge/-Live-blue?style=flat-square&logo=google-chrome)](https://element-trac-hospital.netlify.app/)
-  **Element Trắc Hospital**  
-  *Front-end với ReactJS & Vite.*  
-  Trang web quản lý bệnh viện , hiệu năng cao, phát triển bằng React và build tool Vite giúp tải trang nhanh, dễ mở rộng.
+- [![Website](https://img.shields.io/badge/-Live-blue?style=flat-square&logo=google-chrome)](https://element-trac-hospital.netlify.app/)  
+  **Element Trac Hospital**  
+  *Front-end with ReactJS & Vite.*  
+  A hospital management website with high performance, built using React and Vite for fast loading and scalability.
 
-<!-- Thêm dự án mới ở đây theo mẫu trên nếu có -->
+<!-- Add more projects here if needed -->
+
+---
 
 ## 📫 Connect With Me
 
@@ -104,4 +105,3 @@ Mục tiêu của mình là tạo ra những sản phẩm chất lượng, dễ 
 
 > "Code is like humor. When you have to explain it, it’s bad."  
 > **Thank you for visiting my profile! Have a nice day! 😊**
-
