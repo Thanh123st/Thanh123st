@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Vietnam 🇻🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+Profile!;Coding+is+my+passion;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Coding+is+my+passion;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 ---
@@ -71,17 +71,20 @@ My goal is to create high-quality, maintainable products that bring real value t
 
 ## 📌 Featured Projects
 
-- [![Website](https://img.shields.io/badge/-Live-blue?style=flat-square&logo=google-chrome)](https://tap-chi-khoa-hoc-va-cong-nghe-can-tho.netlify.app/)  
-  **Can Tho Science & Technology Journal**  
-  *Front-end with ReactJS.*  
-  A website for presenting scientific articles for Can Tho University of Science and Technology. Modern UI, responsive, and optimized for user experience.
+### 🌐 Websites
+- **Personal Profile** → [Live](https://element-trac-group.id.vn/)  
+- **Social Network (ReactJS)** → [Live](https://thread-town.element-trac-group.id.vn/) | [GitHub](https://github.com/Thanh123st/react-social-network)  
+- **Science Journal Website** → [Live](https://tapchikhoahoc.element-trac-group.id.vn/)  
+- **Hospital Management Website** → [Live](https://hospital.element-trac-group.id.vn/) | [GitHub](https://github.com/Thanh123st/react-hospital-patient)  
+- **Hospital System (Web + Desktop App with Electron)** → [Live](https://staff-hospital.element-trac-group.id.vn/login) | [GitHub](https://github.com/Thanh123st/react-electron-hospital-staff)  
 
-- [![Website](https://img.shields.io/badge/-Live-blue?style=flat-square&logo=google-chrome)](https://element-trac-hospital.netlify.app/)  
-  **Element Trac Hospital**  
-  *Front-end with ReactJS & Vite.*  
-  A hospital management website with high performance, built using React and Vite for fast loading and scalability.
+### ⚙️ Backend Services
+- **Java Spring Boot (Hospital System)** → [Swagger API Docs](https://spring-api-u4ro.onrender.com/swagger-ui/index.html) | [GitHub (Private/Coming Soon)]()  
+- **Node.js Express (Hospital News & Province Data Service)** → [GitHub](https://github.com/Thanh123st/nodejs-express-hospital-news)  
 
-<!-- Add more projects here if needed -->
+### 📱 Mobile Applications
+- **Science Journal App (React Native + Expo)** → [GitHub](https://github.com/Thanh123st/react-native-expo-tapchikhoahoc)  
+- **Student Activity Attendance App** → [GitHub](https://github.com/Thanh123st/react-native-expo-hoatdongsinhvien)  
 
 ---
 
