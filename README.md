@@ -79,7 +79,7 @@ My goal is to create high-quality, maintainable products that bring real value t
 - **Hospital System (Web + Desktop App with Electron)** → [Live](https://staff-hospital.element-trac-group.id.vn/login) | [GitHub](https://github.com/Thanh123st/react-electron-hospital-staff)  
 
 ### ⚙️ Backend Services
-- **Java Spring Boot (Hospital System)** → [Swagger API Docs](https://spring-api-u4ro.onrender.com/swagger-ui/index.html) | [GitHub (Private/Coming Soon)]()  
+- **Java Spring Boot (Hospital System)** → [Swagger API Docs](https://spring-api-u4ro.onrender.com/swagger-ui/index.html) | [GitHub](https://github.com/Thanh123st/java-spring-boot-web-service-hospital)  
 - **Node.js Express (Hospital News & Province Data Service)** → [GitHub](https://github.com/Thanh123st/nodejs-express-hospital-news)  
 
 ### 📱 Mobile Applications
