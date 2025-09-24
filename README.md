@@ -3,13 +3,13 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="45%">
+      <td align="center" width="30%">
         <h1>👋 Hi, I'm Thanh Nguyen</h1>
       </td>
-      <td align="center" width="10%">
-        <img src="https://64.media.tumblr.com/0282798d53d2b9ae9f3b6f0dd7e84867/7d0fdf63cb5dae7d-77/s1280x1920/b13e10b47881e81f5fbee0e22529de5b8533da76.gifv" width="200" alt="Banner" />
+      <td align="center" width="40%">
+        <img src="https://64.media.tumblr.com/0282798d53d2b9ae9f3b6f0dd7e84867/7d0fdf63cb5dae7d-77/s1280x1920/b13e10b47881e81f5fbee0e22529de5b8533da76.gifv" width="100%" alt="Banner" />
       </td>
-      <td align="center" width="45%">
+      <td align="center" width="30%">
         <h3>A passionate Software Engineer from Vietnam 🇻🇳</h3>
       </td>
     </tr>
