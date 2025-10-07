@@ -5,7 +5,7 @@
     <tr>
       <!-- Cột ảnh -->
       <td align="center" width="50%">
-        <img src="https://64.media.tumblr.com/0282798d53d2b9ae9f3b6f0dd7e84867/7d0fdf63cb5dae7d-77/s1280x1920/b13e10b47881e81f5fbee0e22529de5b8533da76.gifv" width="90%" alt="Banner" />
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFobG55bW56NjBwNmE0OXU1YnhkeXZsbnBqeGJmaWR5cm10eTQydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FYvmPP1tlXFzOR9mtk/giphy.gif" width="90%" alt="Banner" />
       </td>
       <!-- Cột text -->
       <td align="center" width="50%">
