@@ -77,7 +77,7 @@ My goal is to create high-quality, maintainable products that bring real value t
 
 ### ⚡ Tools & Others
 <p>
-  <img src="[https://cdn.simpleicons.org/openai/10a37f](https://s3-alpha.figma.com/hub/file/2732115288/c4c05388-d833-45ac-913b-c914cf08187a-cover.png)" width="40" title="ChatGPT" />
+  <img src="https://s3-alpha.figma.com/hub/file/2732115288/c4c05388-d833-45ac-913b-c914cf08187a-cover.png" width="40" title="ChatGPT" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="40" title="DevOps"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
