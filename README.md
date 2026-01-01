@@ -77,31 +77,12 @@ My goal is to create high-quality, maintainable products that bring real value t
 
 ### ⚡ Tools & Others
 <p>
-  <img src="https://cdn.simpleicons.org/openai/10a37f" width="40" title="ChatGPT" />
+  <img src="[https://cdn.simpleicons.org/openai/10a37f](https://s3-alpha.figma.com/hub/file/2732115288/c4c05388-d833-45ac-913b-c914cf08187a-cover.png)" width="40" title="ChatGPT" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="40" title="DevOps"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
 </p>
-
----
-
-## 📌 Featured Projects
-
-### 🌐 Websites
-- **Personal Profile** → [Live](https://element-trac-group.id.vn/)  
-- **Social Network (ReactJS)** → [Live](https://thread-town.element-trac-group.id.vn/) | [GitHub](https://github.com/Thanh123st/react-social-network)  
-- **Science Journal Website** → [Live](https://tapchikhoahoc.element-trac-group.id.vn/)  
-- **Hospital Management Website** → [Live](https://hospital.element-trac-group.id.vn/) | [GitHub](https://github.com/Thanh123st/react-hospital-patient)  
-- **Hospital System (Web + Desktop App with Electron)** → [Live](https://staff-hospital.element-trac-group.id.vn/login) | [GitHub](https://github.com/Thanh123st/react-electron-hospital-staff)  
-
-### ⚙️ Backend Services
-- **Java Spring Boot (Hospital System)** → [Swagger API Docs](https://javabackend-s160.onrender.com/swagger-ui/index.html) | [GitHub](https://github.com/Thanh123st/java-spring-boot-web-service-hospital)  
-- **Node.js Express (Hospital News & Province Data Service)** → [GitHub](https://github.com/Thanh123st/nodejs-express-hospital-news)  
-
-### 📱 Mobile Applications
-- **Science Journal App (React Native + Expo)** → [GitHub](https://github.com/Thanh123st/react-native-expo-tapchikhoahoc)  
-- **Student Activity Attendance App** → [GitHub](https://github.com/Thanh123st/react-native-expo-hoatdongsinhvien)  
 
 ---
 
