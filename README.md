@@ -4,17 +4,20 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=1000&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=A+universe+of+ideas.+A+laboratory+of+possibilities.;From+tiny+experiments+to+new+worlds.;Code.+Question.+Discover.+Repeat." alt="A universe of ideas. A laboratory of possibilities." />
 
-<a href="https://giphy.com/gifs/MXQnyEQwBJ6eTj90L5"><img src="assets/universe.gif" width="500" height="500" alt="Animated violet nebula on a dark starfield" /></a>
-
-<br />
-
-<p align="center">
-<a href="#about"><img src="assets/navigation/about.svg" width="114" height="42" alt="About" /></a>
-<a href="#technology"><img src="assets/navigation/technology.svg" width="158" height="42" alt="Technology" /></a>
-<a href="#ai"><img src="assets/navigation/ai.svg" width="116" height="42" alt="AI Lab" /></a>
-<a href="#projects"><img src="assets/navigation/projects.svg" width="132" height="42" alt="Projects" /></a>
-<a href="#connect"><img src="assets/navigation/connect.svg" width="132" height="42" alt="Connect" /></a>
-</p>
+<table>
+<tr>
+<td align="center" valign="middle" width="60%">
+<a href="https://giphy.com/gifs/MXQnyEQwBJ6eTj90L5"><img src="assets/universe.gif" width="340" alt="Animated violet nebula on a dark starfield" /></a>
+</td>
+<td align="center" valign="middle" width="40%">
+<p><a href="#about"><img src="assets/navigation/about.svg" width="114" height="42" alt="About" /></a></p>
+<p><a href="#technology"><img src="assets/navigation/technology.svg" width="158" height="42" alt="Technology" /></a></p>
+<p><a href="#ai"><img src="assets/navigation/ai.svg" width="116" height="42" alt="AI Lab" /></a></p>
+<p><a href="#projects"><img src="assets/navigation/projects.svg" width="132" height="42" alt="Projects" /></a></p>
+<p><a href="#connect"><img src="assets/navigation/connect.svg" width="132" height="42" alt="Connect" /></a></p>
+</td>
+</tr>
+</table>
 
 <br />
 
